@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Factorio.Modding.Api", "src\Factorio.Modding.Api\Factorio.Modding.Api.csproj", "{66912E5E-EEE3-4581-BEC1-3D94CB0D4583}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Factorio.Modding.Api.Json.Benchmarks", "src\Factorio.Modding.Api.Json.Benchmarks\Factorio.Modding.Api.Json.Benchmarks.csproj", "{C81355C4-9060-4605-A5E9-93DBF2F0ADDD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Factorio.Modding.Api.Tests", "src\Factorio.Modding.Api.Json.Tests\Factorio.Modding.Api.Tests.csproj", "{4436F104-2791-4018-BE79-5BA34DC84075}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{66912E5E-EEE3-4581-BEC1-3D94CB0D4583}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66912E5E-EEE3-4581-BEC1-3D94CB0D4583}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66912E5E-EEE3-4581-BEC1-3D94CB0D4583}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{66912E5E-EEE3-4581-BEC1-3D94CB0D4583}.Debug|x64.Build.0 = Debug|Any CPU
+		{66912E5E-EEE3-4581-BEC1-3D94CB0D4583}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66912E5E-EEE3-4581-BEC1-3D94CB0D4583}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66912E5E-EEE3-4581-BEC1-3D94CB0D4583}.Release|x64.ActiveCfg = Release|Any CPU
+		{66912E5E-EEE3-4581-BEC1-3D94CB0D4583}.Release|x64.Build.0 = Release|Any CPU
+		{C81355C4-9060-4605-A5E9-93DBF2F0ADDD}.Debug|Any CPU.ActiveCfg = Debug|x64
+		{C81355C4-9060-4605-A5E9-93DBF2F0ADDD}.Debug|Any CPU.Build.0 = Debug|x64
+		{C81355C4-9060-4605-A5E9-93DBF2F0ADDD}.Debug|x64.ActiveCfg = Debug|x64
+		{C81355C4-9060-4605-A5E9-93DBF2F0ADDD}.Debug|x64.Build.0 = Debug|x64
+		{C81355C4-9060-4605-A5E9-93DBF2F0ADDD}.Release|Any CPU.ActiveCfg = Release|x64
+		{C81355C4-9060-4605-A5E9-93DBF2F0ADDD}.Release|Any CPU.Build.0 = Release|x64
+		{C81355C4-9060-4605-A5E9-93DBF2F0ADDD}.Release|x64.ActiveCfg = Release|x64
+		{C81355C4-9060-4605-A5E9-93DBF2F0ADDD}.Release|x64.Build.0 = Release|x64
+		{4436F104-2791-4018-BE79-5BA34DC84075}.Debug|Any CPU.ActiveCfg = Debug|x64
+		{4436F104-2791-4018-BE79-5BA34DC84075}.Debug|Any CPU.Build.0 = Debug|x64
+		{4436F104-2791-4018-BE79-5BA34DC84075}.Debug|x64.ActiveCfg = Debug|x64
+		{4436F104-2791-4018-BE79-5BA34DC84075}.Debug|x64.Build.0 = Debug|x64
+		{4436F104-2791-4018-BE79-5BA34DC84075}.Release|Any CPU.ActiveCfg = Release|x64
+		{4436F104-2791-4018-BE79-5BA34DC84075}.Release|Any CPU.Build.0 = Release|x64
+		{4436F104-2791-4018-BE79-5BA34DC84075}.Release|x64.ActiveCfg = Release|x64
+		{4436F104-2791-4018-BE79-5BA34DC84075}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BC39EC3A-6AB2-41D2-B1DF-B8D951A47083}
+	EndGlobalSection
+EndGlobal
